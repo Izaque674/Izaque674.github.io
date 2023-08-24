@@ -1,0 +1,47 @@
+[
+    {
+      "id": 1,
+      "titulo": "Bolo de Chocolate",
+      "ingredientes": [
+        "2 xícaras de farinha de trigo",
+        "1 xícara de açúcar",
+        "1 xícara de cacau em pó",
+        "1 colher de chá de fermento em pó",
+        "1/2 colher de chá de sal",
+        "1 xícara de leite",
+        "1/2 xícara de óleo vegetal",
+        "2 ovos",
+        "1 colher de chá de extrato de baunilha"
+      ],
+      "modoPreparo": "..."
+    },
+    {
+      "id": 2,
+      "titulo": "Salada Caesar",
+      "ingredientes": [
+        "Alface romana",
+        "Croutons",
+        "Queijo parmesão ralado",
+        "Molho Caesar",
+        "Frango grelhado (opcional)"
+      ],
+      "modoPreparo": "..."
+    },
+    {
+      "id": 3,
+      "titulo": "Tacos de Carne",
+      "ingredientes": [
+        "500g de carne moída",
+        "1 pacote de tempero para tacos",
+        "Tortilhas de milho",
+        "Alface picada",
+        "Tomate picado",
+        "Queijo cheddar ralado",
+        "Creme de leite",
+        "Molho de pimenta (opcional)"
+      ],
+      "modoPreparo": "..."
+    }
+  ]
+  
+  
