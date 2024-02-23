@@ -300,7 +300,7 @@ namespace Loja\Financeiro;
 
     $cliente = new ClienteFinanceiro();
     $cliente->exibirCliente();
-
+    namespace Loja\Financeiro;
     echo "<br><br>";
 
 // Crie duas traits, 'LogErro' e 'LogInfo', ambas com um método 'registrarLog'.
