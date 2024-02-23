@@ -1,6 +1,6 @@
 <?php
 
-namespace Loja\Financeiro;
+
 
 // Crie uma classe chamada 'Livro' com propriedades privadas 'titulo' e 'autor'.
 // Implemente um método construtor para inicializar essas propriedades.
